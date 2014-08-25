@@ -1,7 +1,7 @@
 {
   "name": "grunt-coverage-fork",
   "description": "A grunt plugin to enforce coverage thresholds from istanbul coverage objects.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/jbnicolai/grunt-istanbul-coverage",
   "author": {
     "name": "Joshua Appelman"
